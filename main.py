@@ -41,7 +41,6 @@ SquareNumbers=[]
 #### Square numbers are the solutions to a number being multiplied by itself( example 1 is a square number because 1 X 1 = 1, 4 is a square number because 2 X 2 = 4 ). 
 ###Calculate the first 20 square numbers and put them in the list called squareNumbers. (With loop and .append 10 marks, without, Max 6 marks).
 
-
 ####Print your list (1 mark)
 print(list)
 
